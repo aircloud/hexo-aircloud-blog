@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7e666f3-b725-4cbc-97fb-f2401a00cb0e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/aircloud" afterPath="$PROJECT_DIR$/themes/aircloud" />
-    </list>
+    <list default="true" id="f7e666f3-b725-4cbc-97fb-f2401a00cb0e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -69,31 +67,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icon_wechat.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/icon_wechat.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404-bg.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/404-bg.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about-bg.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/about-bg.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="avatar.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="avatar.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/img/avatar.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/common.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="96" column="1" lean-forward="false" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gitment.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/gitment.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aircloud.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -164,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/aircloud/layout/tags.ejs" />
         <option value="$PROJECT_DIR$/themes/aircloud/layout/index.ejs" />
         <option value="$PROJECT_DIR$/themes/aircloud/language/zh.yml" />
         <option value="$PROJECT_DIR$/themes/aircloud/layout/_partial/footer.ejs" />
@@ -198,12 +204,10 @@
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/themes/aircloud/layout/archives.ejs" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/tag.less" />
-        <option value="$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less" />
         <option value="$PROJECT_DIR$/themes/aircloud/readme-private.md" />
         <option value="$PROJECT_DIR$/themes/aircloud/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README-EN.md" />
-        <option value="$PROJECT_DIR$/themes/aircloud/source/_less/common.less" />
         <option value="$PROJECT_DIR$/themes/aircloud/layout/about.ejs" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/layout.less" />
         <option value="$PROJECT_DIR$/themes/aircloud/layout/post.ejs" />
@@ -215,6 +219,9 @@
         <option value="$PROJECT_DIR$/themes/aircloud/readme.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/toc.less" />
+        <option value="$PROJECT_DIR$/themes/aircloud/source/_less/common.less" />
+        <option value="$PROJECT_DIR$/themes/aircloud/source/_less/gitment.less" />
+        <option value="$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less" />
       </list>
     </option>
   </component>
@@ -283,6 +290,47 @@
               <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="tags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_less" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,12 +417,12 @@
       <workItem from="1523873314834" duration="1389000" />
       <workItem from="1524485597806" duration="2307000" />
       <workItem from="1524488352972" duration="785000" />
-      <workItem from="1525837215879" duration="1297000" />
+      <workItem from="1525837215879" duration="1578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102134000" />
+    <option name="totallyTimeSpent" value="102415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="23" width="1440" height="877" extended-state="0" />
@@ -385,7 +433,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286445" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28900257" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28900257" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -422,7 +470,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/2018/04/09/构建利用Proxy和Reflect实现双向数据绑定的微框架/index.html" />
     <entry file="file://$PROJECT_DIR$/source/about/about.ejs" />
     <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/gitment.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -537,13 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/archive.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -592,13 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/common.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -787,6 +820,30 @@
     <entry file="file://$PROJECT_DIR$/source/img/avatar.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="96" column="1" lean-forward="false" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/gitment.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
