@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7e666f3-b725-4cbc-97fb-f2401a00cb0e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/source/about/index.md" afterPath="$PROJECT_DIR$/source/about/index.md" />
-      <change beforePath="$PROJECT_DIR$/themes/aircloud" afterPath="$PROJECT_DIR$/themes/aircloud" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,18 +17,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="toc.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/toc.ejs">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/about/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="259" lean-forward="false" selection-start-line="12" selection-start-column="259" selection-end-line="12" selection-end-column="259" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="495">
+              <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/theme.less">
+      <file leaf-file-name="十条编写优化的JavaScript代码的建议.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/十条编写优化的JavaScript代码的建议.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="720">
+                <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+                <folding>
+                  <marker date="1527839730124" expanded="true" signature="273:308" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gitment.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/gitment.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -38,69 +65,130 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toc.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/toc.less">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="262">
+              <caret line="292" column="29" lean-forward="false" selection-start-line="292" selection-start-column="29" selection-end-line="292" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="avatar.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/avatar.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/common.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="96" column="1" lean-forward="false" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gitment.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/gitment.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aircloud.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/layout.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/about/index.md">
+      <file leaf-file-name="dva源码解读.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/dva源码解读.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="12" column="150" lean-forward="false" selection-start-line="12" selection-start-column="150" selection-end-line="12" selection-end-column="150" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1523432937723" expanded="true" signature="4904:5346" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="5126:5312" ph="{&quot;_plugin&quot;: plugin...}" />
+                  <marker date="1523432937723" expanded="true" signature="5141:5196" ph="[...]" />
+                  <marker date="1523432937723" expanded="true" signature="6212:6724" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="6445:6684" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="6481:6677" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="6690:6720" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="7098:7181" ph="..." />
+                  <marker date="1523432937723" expanded="true" signature="7198:8215" ph="{&quot;namespace&quot;: 'users'...}" />
+                  <marker date="1523432937723" expanded="true" signature="7231:7283" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="7297:7415" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="7357:7410" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="7428:7929" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="7483:7753" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="7575:7745" ph="{&quot;type&quot;: 'save'...}" />
+                  <marker date="1523432937723" expanded="true" signature="7616:7736" ph="{&quot;data&quot;: data...}" />
+                  <marker date="1523432937723" expanded="true" signature="7802:7924" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="7948:8212" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="7983:8207" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="8039:8199" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="8125:8191" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="8465:8681" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="8514:8555" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="8793:9235" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="8860:9005" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="9025:9114" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="9140:9231" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="9957:10565" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="9981:10562" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="10025:10558" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="10114:10552" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="10382:10542" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="10686:11788" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="10779:10870" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="10839:10866" ph="//..." />
+                  <marker date="1523432937723" expanded="true" signature="10907:11273" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="10929:11173" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="11184:11269" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="11230:11263" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="11392:11786" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="11413:11441" ph="..." />
+                  <marker date="1523432937723" expanded="true" signature="11464:11549" ph="..." />
+                  <marker date="1523432937723" expanded="true" signature="11490:11548" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="11570:11685" ph="..." />
+                  <marker date="1523432937723" expanded="true" signature="11624:11684" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="11698:11782" ph="..." />
+                  <marker date="1523432937723" expanded="true" signature="11724:11781" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="12486:12789" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="12541:12745" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="12589:12737" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="12611:12728" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="12751:12785" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="12827:12883" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="12916:12979" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="12937:12975" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="13011:13073" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="13032:13069" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="13514:13614" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="13540:13595" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="13865:13948" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="14112:14613" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="14218:14581" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="14277:14577" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="14337:14441" ph="{&quot;history&quot;: app._history...}" />
+                  <marker date="1523432937723" expanded="true" signature="14487:14528" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="14534:14571" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="15043:15149" ph="..." />
+                  <marker date="1523432937723" expanded="true" signature="15191:15740" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="15221:15286" ph="{&quot;app&quot;: app...}" />
+                  <marker date="1523432937723" expanded="true" signature="15314:15434" ph="{&quot;app&quot;: app...}" />
+                  <marker date="1523432937723" expanded="true" signature="15343:15382" ph="[...]" />
+                  <marker date="1523432937723" expanded="true" signature="15475:15533" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="15878:16726" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="15982:16722" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16027:16702" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16192:16694" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16252:16684" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16295:16344" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16350:16674" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16436:16629" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16509:16551" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16820:17772" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16903:17769" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="16930:17128" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="17063:17102" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="17154:17188" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="17217:17252" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="17265:17536" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="17295:17528" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="17370:17426" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="17432:17520" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="17551:17765" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="18359:18492" ph="{...}" />
+                  <marker date="1523432937723" expanded="true" signature="18498:18558" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CentOS7下安装和配置redis.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/CentOS7下安装和配置redis.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -108,12 +196,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aircloud.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/aircloud.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17175">
-              <caret line="1145" column="0" lean-forward="false" selection-start-line="1145" selection-start-column="0" selection-end-line="1145" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="PWA实践-serviceWorker生命周期、请求代理与通信.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/PWA实践-serviceWorker生命周期、请求代理与通信.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Linux服务器初始化设置用户和ssh公私钥登陆.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Linux服务器初始化设置用户和ssh公私钥登陆.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JS的静态作用域、子程序引用环境与参数传递类型.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/JS的静态作用域、子程序引用环境与参数传递类型.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -175,7 +292,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/aircloud/layout/index.ejs" />
         <option value="$PROJECT_DIR$/themes/aircloud/language/zh.yml" />
         <option value="$PROJECT_DIR$/themes/aircloud/layout/_partial/footer.ejs" />
         <option value="$PROJECT_DIR$/themes/aircloud/languages/zh.yml" />
@@ -203,7 +319,6 @@
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/donate.less" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/js/gitment.js" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/nav.less" />
-        <option value="$PROJECT_DIR$/themes/aircloud/source/js/index.js" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/themes/aircloud/layout/archives.ejs" />
@@ -220,12 +335,14 @@
         <option value="$PROJECT_DIR$/themes/aircloud/readme-en.md" />
         <option value="$PROJECT_DIR$/source/tags/index.md" />
         <option value="$PROJECT_DIR$/themes/aircloud/readme.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/toc.less" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/common.less" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/gitment.less" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less" />
         <option value="$PROJECT_DIR$/source/about/index.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/十条编写优化的JavaScript代码的建议.md" />
+        <option value="$PROJECT_DIR$/themes/aircloud/source/js/index.js" />
       </list>
     </option>
   </component>
@@ -245,8 +362,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1513" />
-    <option name="y" value="-102" />
+    <option name="x" value="94" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -265,7 +382,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,19 +398,13 @@
               <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
               <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="tags" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
@@ -327,21 +437,14 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="aircloud" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_less" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -423,27 +526,30 @@
       <workItem from="1524488352972" duration="785000" />
       <workItem from="1525837215879" duration="2458000" />
       <workItem from="1526123354575" duration="11000" />
-      <workItem from="1527479677188" duration="162000" />
+      <workItem from="1527479677188" duration="292000" />
+      <workItem from="1527480512182" duration="2342000" />
+      <workItem from="1527584404717" duration="2557000" />
+      <workItem from="1527838994276" duration="751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103468000" />
+    <option name="totallyTimeSpent" value="109248000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1513" y="-102" width="1440" height="877" extended-state="0" />
+    <frame x="94" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19591261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22128259" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28900257" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28900257" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -476,56 +582,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/about/about.ejs" />
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/gitment.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1763">
-          <caret line="1145" column="1" lean-forward="false" selection-start-line="1145" selection-start-column="1" selection-end-line="1145" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/donate.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/gitment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="3756" column="43" lean-forward="false" selection-start-line="3756" selection-start-column="43" selection-end-line="3756" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/donate.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3585">
-          <caret line="239" column="0" lean-forward="false" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/nav.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2565">
-          <caret line="171" column="23" lean-forward="false" selection-start-line="171" selection-start-column="23" selection-end-line="171" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -711,7 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,19 +797,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="19" lean-forward="false" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/icon_wechat.png" />
+    <entry file="file://$PROJECT_DIR$/source/img/404-bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/source/img/about-bg.jpg" />
     <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/toc.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,6 +811,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/toc.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/avatar.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="96" column="1" lean-forward="false" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/gitment.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/layout.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -774,62 +863,201 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/toc.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/img/icon_wechat.png" />
-    <entry file="file://$PROJECT_DIR$/source/img/404-bg.jpg" />
-    <entry file="file://$PROJECT_DIR$/source/img/about-bg.jpg" />
-    <entry file="file://$PROJECT_DIR$/source/img/avatar.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/common.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="1" lean-forward="false" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/gitment.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/layout.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/about/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="12" column="150" lean-forward="false" selection-start-line="12" selection-start-column="150" selection-end-line="12" selection-end-column="150" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="259" lean-forward="false" selection-start-line="12" selection-start-column="259" selection-end-line="12" selection-end-column="259" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/dva源码解读.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1523432937723" expanded="true" signature="4904:5346" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="5126:5312" ph="{&quot;_plugin&quot;: plugin...}" />
+              <marker date="1523432937723" expanded="true" signature="5141:5196" ph="[...]" />
+              <marker date="1523432937723" expanded="true" signature="6212:6724" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="6445:6684" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="6481:6677" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="6690:6720" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="7098:7181" ph="..." />
+              <marker date="1523432937723" expanded="true" signature="7198:8215" ph="{&quot;namespace&quot;: 'users'...}" />
+              <marker date="1523432937723" expanded="true" signature="7231:7283" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="7297:7415" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="7357:7410" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="7428:7929" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="7483:7753" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="7575:7745" ph="{&quot;type&quot;: 'save'...}" />
+              <marker date="1523432937723" expanded="true" signature="7616:7736" ph="{&quot;data&quot;: data...}" />
+              <marker date="1523432937723" expanded="true" signature="7802:7924" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="7948:8212" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="7983:8207" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="8039:8199" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="8125:8191" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="8465:8681" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="8514:8555" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="8793:9235" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="8860:9005" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="9025:9114" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="9140:9231" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="9957:10565" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="9981:10562" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="10025:10558" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="10114:10552" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="10382:10542" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="10686:11788" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="10779:10870" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="10839:10866" ph="//..." />
+              <marker date="1523432937723" expanded="true" signature="10907:11273" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="10929:11173" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="11184:11269" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="11230:11263" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="11392:11786" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="11413:11441" ph="..." />
+              <marker date="1523432937723" expanded="true" signature="11464:11549" ph="..." />
+              <marker date="1523432937723" expanded="true" signature="11490:11548" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="11570:11685" ph="..." />
+              <marker date="1523432937723" expanded="true" signature="11624:11684" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="11698:11782" ph="..." />
+              <marker date="1523432937723" expanded="true" signature="11724:11781" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="12486:12789" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="12541:12745" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="12589:12737" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="12611:12728" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="12751:12785" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="12827:12883" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="12916:12979" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="12937:12975" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="13011:13073" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="13032:13069" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="13514:13614" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="13540:13595" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="13865:13948" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="14112:14613" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="14218:14581" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="14277:14577" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="14337:14441" ph="{&quot;history&quot;: app._history...}" />
+              <marker date="1523432937723" expanded="true" signature="14487:14528" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="14534:14571" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="15043:15149" ph="..." />
+              <marker date="1523432937723" expanded="true" signature="15191:15740" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="15221:15286" ph="{&quot;app&quot;: app...}" />
+              <marker date="1523432937723" expanded="true" signature="15314:15434" ph="{&quot;app&quot;: app...}" />
+              <marker date="1523432937723" expanded="true" signature="15343:15382" ph="[...]" />
+              <marker date="1523432937723" expanded="true" signature="15475:15533" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="15878:16726" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="15982:16722" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16027:16702" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16192:16694" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16252:16684" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16295:16344" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16350:16674" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16436:16629" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16509:16551" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16820:17772" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16903:17769" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="16930:17128" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="17063:17102" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="17154:17188" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="17217:17252" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="17265:17536" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="17295:17528" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="17370:17426" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="17432:17520" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="17551:17765" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="18359:18492" ph="{...}" />
+              <marker date="1523432937723" expanded="true" signature="18498:18558" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CentOS7下安装和配置redis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Linux服务器初始化设置用户和ssh公私钥登陆.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS的静态作用域、子程序引用环境与参数传递类型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/PWA实践-serviceWorker生命周期、请求代理与通信.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/gitment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/十条编写优化的JavaScript代码的建议.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="720">
+            <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+            <folding>
+              <marker date="1527839730124" expanded="true" signature="273:308" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="292" column="29" lean-forward="false" selection-start-line="292" selection-start-column="29" selection-end-line="292" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
