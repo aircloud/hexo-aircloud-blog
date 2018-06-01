@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e666f3-b725-4cbc-97fb-f2401a00cb0e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/themes/aircloud" afterPath="$PROJECT_DIR$/themes/aircloud" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -68,8 +67,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="295" column="19" lean-forward="true" selection-start-line="295" selection-start-column="19" selection-end-line="295" selection-end-column="78" />
+            <state relative-caret-position="264">
+              <caret line="254" column="0" lean-forward="true" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -247,7 +246,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>min-height</find>
       <find>searchFromKeyWord</find>
       <find>search-input</find>
       <find>language</find>
@@ -277,6 +275,7 @@
       <find>document.documentElement.scrollTop</find>
       <find>reLayout</find>
       <find>tocToTop</find>
+      <find>console.log</find>
     </findStrings>
     <replaceStrings>
       <replace>@</replace>
@@ -362,7 +361,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
+    <option name="x" value="168" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -530,15 +529,15 @@
       <workItem from="1527480512182" duration="2342000" />
       <workItem from="1527584404717" duration="2557000" />
       <workItem from="1527838994276" duration="1006000" />
-      <workItem from="1527872994175" duration="666000" />
+      <workItem from="1527872994175" duration="1966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110169000" />
+    <option name="totallyTimeSpent" value="111469000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="168" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22128259" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1054,8 +1053,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="295" column="19" lean-forward="true" selection-start-line="295" selection-start-column="19" selection-end-line="295" selection-end-column="78" />
+        <state relative-caret-position="264">
+          <caret line="254" column="0" lean-forward="true" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
           <folding />
         </state>
       </provider>
