@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7e666f3-b725-4cbc-97fb-f2401a00cb0e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/themes/aircloud" afterPath="$PROJECT_DIR$/themes/aircloud" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/十条编写优化的JavaScript代码的建议.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="720">
+              <first_editor relative-caret-position="585">
                 <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
                 <folding>
                   <marker date="1527839730124" expanded="true" signature="273:308" ph="{...}" />
@@ -68,8 +68,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="292" column="29" lean-forward="false" selection-start-line="292" selection-start-column="29" selection-end-line="292" selection-end-column="29" />
+            <state relative-caret-position="228">
+              <caret line="295" column="19" lean-forward="true" selection-start-line="295" selection-start-column="19" selection-end-line="295" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -247,9 +247,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>top: 50px</find>
-      <find>post-meta</find>
-      <find>site-nav-toggle</find>
       <find>min-height</find>
       <find>searchFromKeyWord</find>
       <find>search-input</find>
@@ -277,6 +274,9 @@
       <find>.toc-link</find>
       <find>.toc-article li</find>
       <find>.toc-article</find>
+      <find>document.documentElement.scrollTop</find>
+      <find>reLayout</find>
+      <find>tocToTop</find>
     </findStrings>
     <replaceStrings>
       <replace>@</replace>
@@ -362,7 +362,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="94" />
+    <option name="x" value="38" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -382,6 +382,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -443,8 +445,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,15 +529,16 @@
       <workItem from="1527479677188" duration="292000" />
       <workItem from="1527480512182" duration="2342000" />
       <workItem from="1527584404717" duration="2557000" />
-      <workItem from="1527838994276" duration="751000" />
+      <workItem from="1527838994276" duration="1006000" />
+      <workItem from="1527872994175" duration="666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109248000" />
+    <option name="totallyTimeSpent" value="110169000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="94" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="38" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22128259" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -851,7 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17175">
           <caret line="1145" column="0" lean-forward="false" selection-start-line="1145" selection-start-column="0" selection-end-line="1145" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,7 +1042,7 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/十条编写优化的JavaScript代码的建议.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
+          <first_editor relative-caret-position="585">
             <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
             <folding>
               <marker date="1527839730124" expanded="true" signature="273:308" ph="{...}" />
@@ -1055,8 +1054,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="292" column="29" lean-forward="false" selection-start-line="292" selection-start-column="29" selection-end-line="292" selection-end-column="29" />
+        <state relative-caret-position="228">
+          <caret line="295" column="19" lean-forward="true" selection-start-line="295" selection-start-column="19" selection-end-line="295" selection-end-column="78" />
           <folding />
         </state>
       </provider>
