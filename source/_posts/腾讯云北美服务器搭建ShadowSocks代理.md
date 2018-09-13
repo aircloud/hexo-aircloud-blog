@@ -47,3 +47,17 @@ Congratulations, shadowsocks install completed!Your Server IP:  ***** VPS的IP�
 ```
 
 然后即可以使用
+
+卸载方法：
+
+使用 root 用户登录，运行以下命令：
+
+```
+./shadowsocksR.sh uninstall
+```
+
+安装完成后即已后台启动 ShadowsocksR ，运行：
+
+```
+/etc/init.d/shadowsocks status
+```
