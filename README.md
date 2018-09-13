@@ -7,7 +7,7 @@
 需要提前全局安装 hexo
 
 ```
-git clone https://github.com/aircloud/hexo-theme-aircloud.git
+git clone https://github.com/aircloud/hexo-theme-aircloud.git --recursive
 cd hexo-theme-aircloud
 npm install
 hexo serve
