@@ -65,9 +65,9 @@ comment:
    type: disqus
    script: 'https://airclouds-blog.disqus.com/embed.js'
 
-#donate:
-#  img: img/donate.jpg
-#  content: 感谢鼓励
+donate:
+  img: img/donate.jpg
+  content: 感谢鼓励
 
 # The following content is not recommended to modify
 # 搜索数据文件路径设置，不建议改动：
