@@ -21,7 +21,6 @@ permalink_defaults:
 # Site settings
 # 网站综合内容设置：
 SEOTitle: AirCloud的博客 | AirCloud's Blog
-header-img: img/home-bg.jpg
 email: onlythen@yeah.net
 description: "聂小涛的博客"
 keyword: "腾讯"
@@ -55,16 +54,20 @@ friends: [
     }
 ]
 
-comment:
-  type: gitment
-  id: your-id-created-by-https://github.com/settings/applications/new
-  secret: your-secret-created-by-https://github.com/settings/applications/new
-  owner: aircloud
-  repo: hexo-aircloud-blog
+#comment:
+#  type: gitment
+#  id: your-id-created-by-https://github.com/settings/applications/new
+#  secret: your-secret-created-by-https://github.com/settings/applications/new
+#  owner: aircloud
+#  repo: hexo-aircloud-blog
 
-donate:
-  img: img/donate.jpg
-  content: 感谢鼓励
+comment:
+   type: disqus
+   script: 'https://airclouds-blog.disqus.com/embed.js'
+
+#donate:
+#  img: img/donate.jpg
+#  content: 感谢鼓励
 
 # The following content is not recommended to modify
 # 搜索数据文件路径设置，不建议改动：
