@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e666f3-b725-4cbc-97fb-f2401a00cb0e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/aircloud/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/aircloud/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -53,7 +49,7 @@
           <entry key="ejs" value="121" />
           <entry key="js" value="183" />
           <entry key="less" value="15" />
-          <entry key="md" value="1537" />
+          <entry key="md" value="1848" />
           <entry key="yml" value="42" />
         </counts>
       </usages-collector>
@@ -63,7 +59,7 @@
           <entry key="EJS" value="121" />
           <entry key="JavaScript" value="183" />
           <entry key="Less" value="15" />
-          <entry key="Markdown" value="1537" />
+          <entry key="Markdown" value="1848" />
           <entry key="YAML" value="42" />
         </counts>
       </usages-collector>
@@ -112,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="67" selection-start-line="67" selection-start-column="1" selection-end-line="69" selection-end-column="16" />
+            <state relative-caret-position="364">
+              <caret line="41" selection-start-line="41" selection-end-line="54" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -134,20 +130,8 @@
         <entry file="file://$PROJECT_DIR$/themes/aircloud/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="107">
-                <caret line="26" column="93" selection-start-line="26" selection-start-column="93" selection-end-line="26" selection-end-column="93" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/testLongToc.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+              <first_editor relative-caret-position="952">
+                <caret line="165" column="22" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -276,10 +260,10 @@
         <option value="$PROJECT_DIR$/themes/aircloud/readme-private.md" />
         <option value="$PROJECT_DIR$/themes/aircloud/layout/post.ejs" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/toc.less" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/testLongToc.md" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/js/index.js" />
         <option value="$PROJECT_DIR$/themes/aircloud/readme-en.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/aircloud/readme.md" />
       </list>
     </option>
@@ -351,21 +335,6 @@
               <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-              <item name="_partial" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
@@ -477,12 +446,12 @@
       <workItem from="1528632108052" duration="1298000" />
       <workItem from="1532854289872" duration="820000" />
       <workItem from="1537268499545" duration="617000" />
-      <workItem from="1538131749129" duration="8804000" />
+      <workItem from="1538131749129" duration="9399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124384000" />
+    <option name="totallyTimeSpent" value="124979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -782,13 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="67" selection-start-line="67" selection-start-column="1" selection-end-line="69" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/aircloud/readme-en.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -799,11 +761,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="41" selection-start-line="41" selection-end-line="54" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/aircloud/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="107">
-            <caret line="26" column="93" selection-start-line="26" selection-start-column="93" selection-end-line="26" selection-end-column="93" />
+          <first_editor relative-caret-position="952">
+            <caret line="165" column="22" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
