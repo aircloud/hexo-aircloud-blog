@@ -11,7 +11,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://kaijun.rocks/
+url: http://niexiaotao.cn/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ friends: [
 
 comment:
    type: disqus
-   script: 'http://niexiaotao.cn/disqus.js'
+   script: 'https://airclouds-blog.disqus.com/embed.js'
 
 donate:
   img: img/donate.jpg
