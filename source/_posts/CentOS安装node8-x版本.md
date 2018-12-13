@@ -3,7 +3,7 @@ title: CentOS安装node8.x版本
 date: 2017-12-15 12:52:34
 tags:
     - centOS
-    - node
+    - Node.js
 ---
 ### CentOS 安装 node 8.x 版本
 
