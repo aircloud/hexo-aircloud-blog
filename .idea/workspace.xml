@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e666f3-b725-4cbc-97fb-f2401a00cb0e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/source/img/ker1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/CentOS安装node8-x版本.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CentOS安装node8-x版本.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/使用 Node.js 打造多用户实时监控系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/使用 Node.js 打造多用户实时监控系统.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/aircloud" beforeDir="false" afterPath="$PROJECT_DIR$/themes/aircloud" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/aircloud/layout/_partial/nav.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/aircloud/layout/_partial/nav.ejs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +35,7 @@
           <entry key="gitignore" value="1" />
           <entry key="js" value="2" />
           <entry key="less" value="7" />
-          <entry key="md" value="8" />
+          <entry key="md" value="13" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
@@ -44,7 +45,7 @@
           <entry key="EJS" value="13" />
           <entry key="JavaScript" value="2" />
           <entry key="Less" value="7" />
-          <entry key="Markdown" value="8" />
+          <entry key="Markdown" value="13" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="YAML" value="2" />
         </counts>
@@ -55,7 +56,7 @@
           <entry key="ejs" value="121" />
           <entry key="js" value="183" />
           <entry key="less" value="52" />
-          <entry key="md" value="4445" />
+          <entry key="md" value="4465" />
           <entry key="yml" value="55" />
         </counts>
       </usages-collector>
@@ -65,7 +66,7 @@
           <entry key="EJS" value="121" />
           <entry key="JavaScript" value="196" />
           <entry key="Less" value="52" />
-          <entry key="Markdown" value="4432" />
+          <entry key="Markdown" value="4452" />
           <entry key="YAML" value="55" />
         </counts>
       </usages-collector>
@@ -76,37 +77,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/aircloud.less">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="276">
+              <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/web跨端融合方案浅析.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/一篇关于react历史的流水账.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/从源码分析sentry的错误信息收集.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="64">
+                <caret line="4" column="16" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/css/aircloud.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="1159" column="18" lean-forward="true" selection-start-line="1159" selection-start-column="18" selection-end-line="1159" selection-end-column="18" />
+        <entry file="file://$PROJECT_DIR$/source/_posts/入门WebAssembly以及使用其进行图像卷积处理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="64">
+                <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+        <entry file="file://$PROJECT_DIR$/source/_posts/qlc解决了什么问题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="64">
+                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/nav.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1027">
-              <caret line="238" column="20" selection-start-line="238" selection-start-column="9" selection-end-line="238" selection-end-column="20" />
+            <state relative-caret-position="227">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -117,46 +166,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/nav.ejs">
+        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/toc.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/toc.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/toc.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/layout.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1264">
-              <caret line="79" column="7" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+            <state relative-caret-position="3808">
+              <caret line="238" column="20" selection-start-line="238" selection-start-column="9" selection-end-line="238" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -214,13 +227,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/aircloud" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/source/_posts/centos7-2搭建nginx环境以及负载均衡.md" />
         <option value="$PROJECT_DIR$/source/_posts/腾讯云北美服务器搭建ShadowSocks代理.md" />
         <option value="$PROJECT_DIR$/source/_posts/dva源码解读.md" />
         <option value="$PROJECT_DIR$/source/_posts/CentOS7下安装和配置redis.md" />
@@ -249,7 +260,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README-EN.md" />
         <option value="$PROJECT_DIR$/themes/aircloud/layout/about.ejs" />
-        <option value="$PROJECT_DIR$/themes/aircloud/layout/_partial/nav.ejs" />
         <option value="$PROJECT_DIR$/source/tags/index.md" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/common.less" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/gitment.less" />
@@ -270,6 +280,9 @@
         <option value="$PROJECT_DIR$/themes/aircloud/readme.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/aircloud/source/_less/toc.less" />
+        <option value="$PROJECT_DIR$/source/_posts/qlc解决了什么问题.md" />
+        <option value="$PROJECT_DIR$/themes/aircloud/layout/_partial/nav.ejs" />
+        <option value="$PROJECT_DIR$/source/_posts/入门WebAssembly以及使用其进行图像卷积处理.md" />
       </list>
     </option>
   </component>
@@ -295,7 +308,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="123" />
+    <option name="x" value="127" />
     <option name="y" value="23" />
     <option name="width" value="1557" />
     <option name="height" value="941" />
@@ -306,7 +319,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,6 +330,18 @@
               <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
               <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
@@ -351,59 +375,11 @@
               <item name="layout" type="462c0819:PsiDirectoryNode" />
               <item name="_partial" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_less" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_less" type="462c0819:PsiDirectoryNode" />
-              <item name="toc.less" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud.less" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="AirCloudBlog_EN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AirCloudBlog_EN" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aircloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -424,16 +400,16 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/aircloud/source/_less" />
-      <recent name="$PROJECT_DIR$/themes/aircloud/source/css" />
-      <recent name="$PROJECT_DIR$/source/img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/themes/aircloud/source/css" />
       <recent name="$PROJECT_DIR$/unuse" />
       <recent name="$PROJECT_DIR$/themes/aircloud/source/js" />
       <recent name="$PROJECT_DIR$/themes/aircloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/img" />
+      <recent name="$PROJECT_DIR$/themes/aircloud/source/_less" />
+      <recent name="$PROJECT_DIR$/themes/aircloud/source/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -504,13 +480,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140405000" />
+    <option name="totallyTimeSpent" value="140921000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="123" y="23" width="1557" height="941" extended-state="0" />
+    <frame x="127" y="23" width="1557" height="941" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20703125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2233073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -546,41 +522,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README-EN.md" />
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/about.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/tags/index.md" />
-    <entry file="file://$PROJECT_DIR$/unuse/hexo-theme-next-master/source/css/_common/components/sidebar/sidebar-toc.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/img/icon_wechat.png" />
-    <entry file="file://$PROJECT_DIR$/source/img/404-bg.jpg" />
     <entry file="file://$PROJECT_DIR$/source/img/about-bg.jpg" />
     <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/theme.less">
       <provider selected="true" editor-type-id="text-editor" />
@@ -606,27 +547,9 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/CentOS7下安装和配置redis.md" />
     <entry file="file://$PROJECT_DIR$/source/_posts/Linux服务器初始化设置用户和ssh公私钥登陆.md" />
     <entry file="file://$PROJECT_DIR$/source/_posts/JS的静态作用域、子程序引用环境与参数传递类型.md" />
-    <entry file="file://$PROJECT_DIR$/public/2018/04/11/Linux服务器初始化设置用户和ssh公私钥登陆/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="306" column="22" selection-start-line="306" selection-start-column="22" selection-end-line="306" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3072">
-          <caret line="192" column="33" selection-start-line="192" selection-start-column="33" selection-end-line="192" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6224">
-          <caret line="389" column="27" selection-start-line="389" selection-start-column="11" selection-end-line="389" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/2018/04/11/Linux服务器初始化设置用户和ssh公私钥登陆/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/js/index.js" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
     <entry file="file://$PROJECT_DIR$/themes/aircloud/source/_less/layout.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -635,22 +558,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/十条编写优化的JavaScript代码的建议.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/PWA实践-serviceWorker生命周期、请求代理与通信.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/page.ejs">
       <provider selected="true" editor-type-id="text-editor" />
@@ -770,29 +693,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/aircloud/source/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1027">
+        <state relative-caret-position="3808">
           <caret line="238" column="20" selection-start-line="238" selection-start-column="9" selection-end-line="238" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/catagory.ejs">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/nav.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/toc.ejs">
       <provider selected="true" editor-type-id="text-editor">
@@ -826,6 +735,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
           <caret line="1159" column="18" lean-forward="true" selection-start-line="1159" selection-start-column="18" selection-end-line="1159" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unuse/hexo-theme-next-master/layout/_third-party/search/localsearch.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/archive.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/web跨端融合方案浅析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/一篇关于react历史的流水账.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/tags.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/从源码分析sentry的错误信息收集.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/qlc解决了什么问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aircloud/layout/_partial/nav.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/入门WebAssembly以及使用其进行图像卷积处理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
