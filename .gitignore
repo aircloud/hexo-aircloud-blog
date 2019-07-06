@@ -8,3 +8,4 @@ public/
 .deploy*/
 unuse/
 sftp.json
+sftp-config.json
