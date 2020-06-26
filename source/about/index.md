@@ -8,6 +8,9 @@ comments: true
 
 >大多数时候，都在思考自己该走向何方
 
+E-mail: onlythen@yeah.net
+
+Brief：Javascript/Rust，不想做程序员的程序员，宏观经济研究者的男朋友
 
 * 2020.06.23
 
