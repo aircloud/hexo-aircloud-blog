@@ -20,7 +20,7 @@ permalink_defaults:
 
 # Site settings
 # 网站综合内容设置：
-SEOTitle: AirCloud的博客 | AirCloud's Blog
+SEOTitle: AirCloud日常
 email: onlythen@yeah.net
 description: "聂小涛的博客"
 keyword: "腾讯"
@@ -51,6 +51,9 @@ friends: [
     },{
         title: "It helps SEO",
         href: "#"
+    },{
+        title: "浙ICP备16035324号-1",
+        href: "https://beian.miit.gov.cn/"
     }
 ]
 
