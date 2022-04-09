@@ -4,9 +4,9 @@
 
 # Site
 title: AirCloud 日常
-subtitle: sometimes code， sometimes design
+subtitle: sometimes code, sometimes design
 author: Xiaotao Nie
-language: zh
+language: en
 timezone:
 
 # URL
@@ -23,7 +23,7 @@ permalink_defaults:
 SEOTitle: AirCloud 日常
 email: onlythen@yeah.net
 description: "聂小涛的博客"
-keyword: "腾讯"
+keyword: "hexo,聂小涛,聂小涛的博客,全栈开发,Aircloud"
 
 # SNS settings
 # 一些社交平台地址，支持以下几种：
