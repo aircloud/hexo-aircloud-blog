@@ -2,7 +2,7 @@
 title: 使用 Rust WebAssembly 0拷贝进行计算加速
 date: 2020-06-26 14:47:03
 tags:
-    - rust
+    - Rust
 ---
 
 demo: https://github.com/aircloud/rust-wasm-demo  
