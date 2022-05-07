@@ -4,7 +4,7 @@
 
 # Site
 title: AirCloud 日常
-subtitle: sometimes code, sometimes design
+subtitle: "sometimes code, sometimes design"
 author: Xiaotao Nie
 language: zh
 timezone:
@@ -12,6 +12,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://niexiaotao.cn/
+# url: http://localhost:4000/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

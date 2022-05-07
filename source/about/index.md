@@ -6,7 +6,7 @@ comments: true
 ---
 
 E-mail: onlythen@yeah.net
-Brief：Javascript/Rust，不想做程序员的程序员，宏观经济研究者的男朋友
+Brief：Javascript/Rust
 常用网名：aircloud
 
 除了在本网站外，我还会在[知乎专栏](https://www.zhihu.com/column/aircloud)更新一些个人内容，两者之间内容不完全重合。另外出于一些保密性原因，笔者部分文章无法展示地非常细致，不过如果你遇到了类似的问题，欢迎通过邮箱和我取得进一步的联系。
