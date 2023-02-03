@@ -25,7 +25,7 @@ comments: false
 - useEffect 的不更新陷阱：https://zhuanlan.zhihu.com/p/84697185
 - 增量 DOM 与虚拟 DOM 的对比使用：https://juejin.cn/post/6903765877296988174
 - react 运行时优化：https://juejin.cn/post/7010539227284766751
-- astro： 组件级别的动态加载(相对于 webpack 文件级别的更灵活)，可以通过可见性、路由等触发；可以直接混合使用 React/Vue 等多种前端框架。以及还有一些其他的小的特性，比如顶层 await 支持：https://astro.build/
+- astro：组件级别的动态加载 (相对于 webpack 文件级别的更灵活)，可以通过可见性、路由等触发；可以直接混合使用 React/Vue 等多种前端框架。以及还有一些其他的小的特性，比如顶层 await 支持：https://astro.build/
 
 ### 安全
 
@@ -35,6 +35,7 @@ comments: false
 
 - 一文看懂 npm、yarn、pnpm 之间的区别：https://juejin.cn/post/6844903616109641736
 - Why should we use pnpm (主要是使用了符号链接，所以更加快了)：https://www.kochan.io/nodejs/why-should-we-use-pnpm.html
+- Node.JS 地下铁 https://subway.midwayjs.org/season-11.html
 
 ### python
 
@@ -61,6 +62,10 @@ CodeMod 是一个代码转换术语，以下两个项目比较适合做这个事
 
 - 顶配级拖拽体验 https://zhuanlan.zhihu.com/p/505956645
 
+### 视觉
+
+- 免费高清无版权网站 https://pixabay.com/zh/
+
 ### 工具
 
-- tldr：一个很简单的可以命令行 help 工具： https://tldr.sh/
+- tldr：一个很简单的可以命令行 help 工具：https://tldr.sh/
